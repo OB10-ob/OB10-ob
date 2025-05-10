@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there! 👋  
-I'm **Obada Alrefai**, a passionate **computer scince Student** with a keen interest in **Full-Stack Web Development** and **Mobile Application Development**.  
+I'm **Obada Alrefai**, a passionate **computer science Student** with a keen interest in **Full-Stack Web Development** and **Mobile Application Development**.  
  
 I love **building intuitive and user-friendly applications**, applying **object-oriented design principles**, and exploring **new technologies** to enhance user experiences. My journey in software development has led me to work on diverse projects, including **Flutter applications, Fron-end, and UI/UX prototyping**.  
  
@@ -38,20 +38,20 @@ I am also actively involved in **tech communities** and enjoy contributing to **
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoft-powerpoint&logoColor=white)
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ismael-782&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ismael-782&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-782&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OB10-ob&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ismael-782&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=OB10-ob&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
  
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ismael-782&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=OB10-ob&limit=5&theme=monokai&combine_all_yearly_contributions=true)
  
 ---
-[![](https://visitcount.itsvg.in/api?id=ismael-782&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OB10-ob&icon=0&color=0)](https://visitcount.itsvg.in)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
