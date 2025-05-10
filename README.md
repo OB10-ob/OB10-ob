@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there! 👋  
-I'm **Ismael Ibrahim**, a passionate **Software Engineering Student** with a keen interest in **Full-Stack Web Development** and **Mobile Application Development**.  
+I'm **Obada Alrefai**, a passionate **computer scince Student** with a keen interest in **Full-Stack Web Development** and **Mobile Application Development**.  
  
 I love **building intuitive and user-friendly applications**, applying **object-oriented design principles**, and exploring **new technologies** to enhance user experiences. My journey in software development has led me to work on diverse projects, including **Flutter applications, Fron-end, and UI/UX prototyping**.  
  
