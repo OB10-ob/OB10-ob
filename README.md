@@ -40,7 +40,7 @@ I am also actively involved in **tech communities** and enjoy contributing to **
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OB10-ob&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OB10-ob&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
