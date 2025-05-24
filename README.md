@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hello there! 👋  
-I'm **Obada Alrefai**, a passionate **computer science Student** with a keen interest in **Full-Stack Web Development** and **Mobile Application Development**.  
- 
-I love **building intuitive and user-friendly applications**, applying **object-oriented design principles**, and exploring **new technologies** to enhance user experiences. My journey in software development has led me to work on diverse projects, including **Flutter applications, Fron-end, and UI/UX prototyping**.  
- 
-I am also actively involved in **tech communities** and enjoy contributing to **open-source projects** while continuously improving my problem-solving skills. 🚀  
+I'm Obada Alrefai, a passionate Computer Science student with a concentration in Cybersecurity and a strong interest in Full-Stack Web Development and Mobile Application Development.
+
+I love building intuitive and user-friendly applications, applying object-oriented design principles, and exploring new technologies to enhance user experiences. My journey in software development has led me to work on diverse projects, including Flutter applications, front-end development, and UI/UX prototyping.
+
+I'm also actively involved in tech communities and enjoy contributing to open-source projects while continuously sharpening my problem-solving skills. 🚀
  
  
 ## 🌐 Socials:
