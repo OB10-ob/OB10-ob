@@ -1,16 +1,16 @@
-# 💫 About Me:
-Hello there! 👋  
+#  About Me:
+Hello there!   
 I'm Obada Alrefai, a passionate Computer Science student with a concentration in Cybersecurity and a strong interest in Full-Stack Web Development and Mobile Application Development.
 
 I love building intuitive and user-friendly applications, applying object-oriented design principles, and exploring new technologies to enhance user experiences. My journey in software development has led me to work on diverse projects, including Flutter applications, front-end development, and UI/UX prototyping.
 
-I'm also actively involved in tech communities and enjoy contributing to open-source projects while continuously sharpening my problem-solving skills. 🚀
+I'm also actively involved in tech communities and enjoy contributing to open-source projects while continuously sharpening my problem-solving skills. 
  
  
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/obada-alrefai-40559b322)
  
-# 💻 Tech Stack:
+#  Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
@@ -37,18 +37,18 @@ I'm also actively involved in tech communities and enjoy contributing to open-so
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat&logo=microsoft-powerpoint&logoColor=white)
  
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OB10-ob&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OB10-ob&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OB10-ob&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
  
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
  
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OB10-ob&limit=5&theme=monokai&combine_all_yearly_contributions=true)
  
 ---
